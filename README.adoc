@@ -1,0 +1,7 @@
+# GPS Tracker Documentation
+
+This is a simple GPS tracker project which contains a basic NMEA parser and gpx generator.
+
+## Additional Sources
+
+The project relies on the RTOS ucOCII in version 2.86. Due to the commercial license of this RTOS it is not included here. Sources are expected to be in the subfolder /RTOS.
